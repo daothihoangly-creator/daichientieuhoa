@@ -1,0 +1,6 @@
+{
+  "name": "Đại Chiến Tiêu Hóa - Hành Trình Ống Tiêu Hóa",
+  "description": "Trò chơi giáo dục tương tác Khoa học tự nhiên 8 khám phá toàn bộ quá trình tiêu hóa từ khoang miệng, dạ dày, ruột non đến ruột già.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
